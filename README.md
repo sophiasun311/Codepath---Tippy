@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://cl.ly/fe4c52f2642e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://duaw26jehqd4r.cloudfront.net/items/3q0Q0g0L1a1n0710460R/Screen%20Recording%202018-12-29%20at%2005.36%20AM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [CloudApp](https://my.cl.ly).
 
